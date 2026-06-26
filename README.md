@@ -29,7 +29,7 @@ https://jayasuryapazhani.github.io/my-portfolio/
 ## 🔗 Connect With Me
 
 - 💼 LinkedIn: https://linkedin.com/in/jayasurya-pazhani  
-- 💻 GitHub: https://github.com/Sparky1505  
+- 💻 GitHub: https://github.com/jayasuryapazhani  
 
 ---
 
