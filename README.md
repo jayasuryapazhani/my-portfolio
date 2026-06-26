@@ -22,7 +22,7 @@ I enjoy working across the stack and continuously improving my technical and pro
 For detailed information about my experience and projects:
 
 🔗 **Portfolio Website**  
-https://sparky1505.github.io/my-portfolio/
+https://jayasuryapazhani.github.io/my-portfolio/
 
 ---
 
